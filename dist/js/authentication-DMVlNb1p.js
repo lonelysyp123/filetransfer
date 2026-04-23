@@ -1,0 +1,1 @@
+const n="账号",s="密码",t="请输入用户名",o="请输入密码",a="重新登录",i="您的登录状态已过期，请重新登录以继续。",e={username:n,password:s,usernameTip:t,passwordTip:o,loginAgainTitle:a,loginAgainSubTitle:i};export{e as default,i as loginAgainSubTitle,a as loginAgainTitle,s as password,o as passwordTip,n as username,t as usernameTip};

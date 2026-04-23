@@ -1,0 +1,1 @@
+import{b$ as r}from"./bootstrap-C1SX6ENO.js";import{a9 as a,aa as n,aK as o}from"../jse/index-index-Cz-v2J_U.js";const t={};function s(c,e){return n(),a("div",null,[...e[0]||(e[0]=[o("h1",null,"流量监控",-1)])])}const d=r(t,[["render",s]]);export{d as default};

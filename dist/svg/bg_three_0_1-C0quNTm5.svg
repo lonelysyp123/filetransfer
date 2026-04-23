@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="857.5" height="598" viewBox="0 0 857.5 598">
+  <g id="调频曲线三段生效_欠频_" data-name="调频曲线三段生效（欠频）" transform="translate(-339.5 -309)">
+    <g id="组_36143" data-name="组 36143" transform="translate(27 1515) rotate(-90)">
+      <g id="组_36142" data-name="组 36142" transform="translate(1580 -30) rotate(90)">
+        <path id="路径_51268" data-name="路径 51268" d="M4355,5880h839.5" transform="translate(-4012.5 -5136)" fill="none" stroke="#b2b2b2" stroke-width="2"/>
+        <path id="多边形_2" data-name="多边形 2" d="M4.1,5.692a2,2,0,0,1,3.795,0l3.225,9.675A2,2,0,0,1,9.225,18H2.775a2,2,0,0,1-1.9-2.632Z" transform="translate(1200 738) rotate(90)" fill="#b2b2b2"/>
+      </g>
+      <path id="路径_51268-2" data-name="路径 51268" d="M4356,5880h580" transform="translate(-3748 -5156)" fill="none" stroke="#b2b2b2" stroke-width="2"/>
+      <path id="多边形_2-2" data-name="多边形 2" d="M4.1,5.692a2,2,0,0,1,3.795,0l3.225,9.675A2,2,0,0,1,9.225,18H2.775a2,2,0,0,1-1.9-2.632Z" transform="translate(1206 718) rotate(90)" fill="#b2b2b2"/>
+    </g>
+    <path id="路径_51270" data-name="路径 51270" d="M4425.333,5609.334V5882" transform="translate(-3914 -5205)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="8 4"/>
+    <path id="路径_51271" data-name="路径 51271" d="M4425.333,5609.334v94" transform="translate(-3819 -5026.333)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="8 4"/>
+    <path id="路径_51273" data-name="路径 51273" d="M4425.333,5609.334v94" transform="translate(-3531 -5026.333)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="8 4"/>
+    <path id="路径_51274" data-name="路径 51274" d="M4425.333,5609.333V5691" transform="translate(-3437.334 -4927.333)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="8 4"/>
+    <path id="路径_51272" data-name="路径 51272" d="M4425.333,5609.333V5849" transform="translate(6360.333 -4022.333) rotate(90)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="8 4"/>
+    <path id="路径_51275" data-name="路径 51275" d="M4425.333,5609.333v237" transform="translate(6598.334 -3662.333) rotate(90)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="8 4"/>
+    <g id="组_36958" data-name="组 36958" transform="translate(15)">
+      <text id="A" transform="translate(690 386)" fill="#666" font-size="12" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">A</tspan></text>
+      <text id="_1" data-name="1" transform="translate(715 386)" fill="#666" font-size="12" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">1</tspan></text>
+      <text id="_." data-name="." transform="translate(697 378)" fill="#666" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">.</tspan></text>
+      <text id="P" transform="translate(678 385)" fill="#666" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">P</tspan></text>
+      <text id="α" transform="translate(703 385)" fill="#666" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">α</tspan></text>
+    </g>
+    <g id="组_36959" data-name="组 36959" transform="translate(15 382)">
+      <text id="B" transform="translate(690 386)" fill="#666" font-size="12" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">B</tspan></text>
+      <text id="_2" data-name="2" transform="translate(715 386)" fill="#666" font-size="12" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">2</tspan></text>
+      <text id="_.-2" data-name="." transform="translate(697 378)" fill="#666" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">.</tspan></text>
+      <text id="P-2" data-name="P" transform="translate(678 385)" fill="#666" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">P</tspan></text>
+      <text id="α-2" data-name="α" transform="translate(703 385)" fill="#666" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">α</tspan></text>
+    </g>
+    <text id="P0" transform="translate(719 565)" fill="#666" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">P</tspan><tspan y="0" font-size="12">0</tspan></text>
+    <text id="fmin" transform="translate(497 709)" fill="#1a9fe7" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">f</tspan><tspan y="0" font-size="12">min</tspan></text>
+    <text id="fmax" transform="translate(1005 709)" fill="#b1b4c2" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">f</tspan><tspan y="0" font-size="12">max</tspan></text>
+    <text id="f_Hz_" data-name="f(Hz)" transform="translate(1119 709)" fill="#666" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">f</tspan><tspan y="0" font-size="12">(Hz)</tspan></text>
+    <text id="P_kW_" data-name="P(kW)" transform="translate(765 360)" fill="#666" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">P(kW)</tspan></text>
+    <text id="δ_" data-name="δ+" transform="translate(574 501)" fill="#666" font-size="18" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-weight="500"><tspan x="0" y="0">δ+</tspan></text>
+    <text id="δ-" transform="translate(947 662)" fill="#b1b4c2" font-size="18" font-family="SourceHanSansSC-Medium, Source Han Sans SC" font-weight="500"><tspan x="0" y="0">δ-</tspan></text>
+    <path id="路径_51430" data-name="路径 51430" d="M4784,5688.667H4638.342l-94.214-180H4402" transform="translate(-4032.001 -5105.667)" fill="none" stroke="#1a9fe7" stroke-linecap="round" stroke-width="4"/>
+    <path id="路径_51431" data-name="路径 51431" d="M4784,5738.667H4638.342l-94.214-180H4402" transform="translate(-3650 -4975.667)" fill="none" stroke="#b1b4c2" stroke-linecap="round" stroke-width="4"/>
+    <g id="组_36983" data-name="组 36983" transform="translate(-108 327)">
+      <text id="N" transform="translate(686 386)" fill="#1a9fe7" font-size="12" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">N</tspan></text>
+      <text id="_1-ε" data-name="(1-ε" transform="translate(697 378)" fill="#1a9fe7" font-size="14" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">(1-</tspan><tspan y="0" font-size="16">ε</tspan></text>
+      <text id="_.-3" data-name="." transform="translate(693 375)" fill="#1a9fe7" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">.</tspan></text>
+      <text id="f" transform="translate(679 385)" fill="#1a9fe7" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">f</tspan></text>
+      <text id="_1-2" data-name="1" transform="translate(723 380)" fill="#1a9fe7" font-size="10" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">1</tspan></text>
+      <text id="_2_" data-name="2)" transform="translate(736 378)" fill="#1a9fe7" font-size="14" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">2)</tspan></text>
+      <text id="_" data-name="/" transform="translate(730 378)" fill="#1a9fe7" font-size="14" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">/</tspan></text>
+    </g>
+    <g id="组_36990" data-name="组 36990" transform="translate(179 327)">
+      <text id="N-2" data-name="N" transform="translate(686 386)" fill="#b1b4c2" font-size="12" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">N</tspan></text>
+      <text id="_1_ε" data-name="(1+ε" transform="translate(697 378)" fill="#b1b4c2" font-size="14" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">(1+</tspan><tspan y="0" font-size="16">ε</tspan></text>
+      <text id="_.-4" data-name="." transform="translate(693 375)" fill="#b1b4c2" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">.</tspan></text>
+      <text id="f-2" data-name="f" transform="translate(679 385)" fill="#b1b4c2" font-size="18" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">f</tspan></text>
+      <text id="_1-3" data-name="1" transform="translate(726 380)" fill="#b1b4c2" font-size="10" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">1</tspan></text>
+      <text id="_2_2" data-name="2)" transform="translate(739 378)" fill="#b1b4c2" font-size="14" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">2)</tspan></text>
+      <text id="_2-2" data-name="/" transform="translate(733 378)" fill="#b1b4c2" font-size="14" font-family="SourceHanSansSC-Regular, Source Han Sans SC"><tspan x="0" y="0">/</tspan></text>
+    </g>
+  </g>
+</svg>

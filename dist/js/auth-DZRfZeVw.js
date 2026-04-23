@@ -1,0 +1,1 @@
+import{A as e}from"./authentication-DilzPc4l.js";import{ah as r,aa as t,af as a,a2 as o}from"../jse/index-index-Cz-v2J_U.js";import"./bootstrap-C1SX6ENO.js";import"./language-toggle-Dsfgxa94.js";const _={__name:"auth",setup(p){return(n,s)=>(t(),r(a(e),{"app-name":a(o).app.name,logo:a(o).logo.source,"toolbar-list":["language"]},null,8,["app-name","logo"]))}};export{_ as default};
